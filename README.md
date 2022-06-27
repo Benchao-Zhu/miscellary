@@ -1,2 +1,3 @@
 # miscellary
 University 
+Stanford
